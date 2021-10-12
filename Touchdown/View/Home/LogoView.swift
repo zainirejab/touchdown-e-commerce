@@ -2,7 +2,7 @@
 //  LogoView.swift
 //  Touchdown
 //
-//  Created by Bismillah on 27.9.2021.
+//  Created by zainirejab in 2021.
 //
 
 import SwiftUI
